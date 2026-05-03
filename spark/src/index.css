@@ -1,2 +1,5 @@
-@import "tailwindcss";
-@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@300..900&display=swap');
+.header{
+  justify-content: space-between;
+  display: flex;
+  align-items: center;
+}
